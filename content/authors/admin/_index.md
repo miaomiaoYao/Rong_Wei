@@ -14,8 +14,7 @@ organizations:
   url: https://www.ustc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causality analysis, statistic learning.
-Besides, the idea of applying statistic analysis methods to help build models for computational neuroscience, intersected with machine learning and AI really interests me.
+bio: My research interests include causality analysis, statistic learning.Besides, the idea of applying statistic analysis methods to help build models for computational neuroscience, intersected with machine learning and AI really interests me.
 
 # Interests to show in About widget
 interests:
